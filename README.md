@@ -107,5 +107,44 @@ To interact with your deployed smart contract, complete the following steps:
 
 ---
 
+![alt=“”](Screenshots/Script_1.png)
+
+---
+
+![alt=“”](Screenshots/Script_2.png)
+
+---
+
+![alt=“”](Screenshots/1.png)
+
+---
+
+![alt=“”](Screenshots/2.png)
+
+---
+
+![alt=“”](Screenshots/3.png)
+
+---
+
+![alt=“”](Screenshots/4.png)
+
+---
+
+![alt=“”](Screenshots/5.png)
+
+---
+
+![alt=“”](Screenshots/6.png)
+
+---
+
+![alt=“”](Screenshots/7.png)
+
+---
+
+![alt=“”](Screenshots/8.png)
+
+
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
